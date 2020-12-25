@@ -1,0 +1,8 @@
+xlonywka_PeopleCounter	KEYWORD1
+Room	KEYWORD1
+
+statusControl	KEYWORD2
+getCountPeople	KEYWORD2
+getStatusRoom	KEYWORD2
+begin	KEYWORD2
+debug	KEYWORD2
